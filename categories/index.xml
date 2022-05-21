@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pingouini &amp; Girafette</title>
-    <link>https://girafette.github.io/categories/</link>
+    <link>https://pingouini.github.io/girafette.github.io/categories/</link>
     <description>Recent content in Categories on Pingouini &amp; Girafette</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://girafette.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pingouini.github.io/girafette.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
